@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "恋愛進化論",
+  "base_artist": "13.3g",
+  "createdAt": "2025-12-03T11:11:46.082902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋愛進化論 (Remastered)",
+      "artist": "13.3g",
+      "has_synced": false,
+      "path": "select/01_恋愛進化論_(Remastered)_13.3g.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋愛進化論",
+      "artist": "13.3g",
+      "has_synced": true,
+      "path": "select/02_恋愛進化論_13.3g.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋愛進化論",
+      "artist": "13.3g",
+      "has_synced": false,
+      "path": "select/pl_01_恋愛進化論_13.3g.txt"
+    }
+  ]
+}
